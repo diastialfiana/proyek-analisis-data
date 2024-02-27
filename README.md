@@ -36,4 +36,5 @@ Atau, Anda dapat mengunjungi Project Data Analytics untuk melihat dashboard hasi
 
 ## Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan dengan jelas dan lengkap.
+
 ==========================================
